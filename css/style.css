@@ -17,13 +17,13 @@ html, body {
   height: 100vh;
   background-size: cover;
 }
-.intro .inner{
+.intro .inner {
   display: table-cell;
   vertical-align: middle;
   width: 100%;
   max-width: none;
 }
-.content{
+.content {
   max-width: 500px;
   margin: 0 auto;
   text-align: center;
@@ -43,6 +43,10 @@ html, body {
   border: solid #036A81 3px;
   text-transform: uppercase;
   text-decoration: none;
+}
+.btn:hover {
+  color: #fff;
+  border: solid #fff 3px;
 }
 p {
   font-size: 160%;

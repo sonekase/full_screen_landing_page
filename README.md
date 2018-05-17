@@ -1,4 +1,4 @@
-# Add ReadME to My Favorite Things
+# Add ReadME
 
 ### Practice creating Full Screen Landing Page, 05.17.2018
 
